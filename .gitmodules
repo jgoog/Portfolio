@@ -7,3 +7,6 @@
 [submodule "hackaton-project/hackathon-aws-voice-task-manager"]
 	path = hackaton-project/hackathon-aws-voice-task-manager
 	url = https://github.com/multiverse-hp/hackathon-aws-voice-task-manager.git
+[submodule "deployment-project/uam-frontend-docker"]
+	path = deployment-project/uam-frontend-docker
+	url = https://github.com/multiverse-hp/uam-frontend-docker.git
