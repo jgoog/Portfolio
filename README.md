@@ -3,7 +3,7 @@
 This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
 
 ## Overview of Apprenticeship
-- **Host Company**:
+- **Host Company**: HP
 - **Duration**:
 - **Link to Portfolio Website**:
 
