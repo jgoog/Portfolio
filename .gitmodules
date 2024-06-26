@@ -4,3 +4,6 @@
 [submodule "front-end-project/frontend-weather-app"]
 	path = front-end-project/frontend-weather-app
 	url = https://github.com/multiverse-hp/frontend-weather-app.git
+[submodule "hackaton-project/hackathon-aws-voice-task-manager"]
+	path = hackaton-project/hackathon-aws-voice-task-manager
+	url = https://github.com/multiverse-hp/hackathon-aws-voice-task-manager.git
