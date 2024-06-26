@@ -1,3 +1,6 @@
 [submodule "back-end-project/Task-manager"]
 	path = back-end-project/Task-manager
 	url = https://github.com/kamjohn777/Task-manager.git
+[submodule "front-end-project/frontend-weather-app"]
+	path = front-end-project/frontend-weather-app
+	url = https://github.com/multiverse-hp/frontend-weather-app.git
