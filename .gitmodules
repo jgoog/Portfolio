@@ -1,0 +1,3 @@
+[submodule "back-end-project/Task-manager"]
+	path = back-end-project/Task-manager
+	url = https://github.com/kamjohn777/Task-manager.git
