@@ -1,6 +1,10 @@
-## Project #1
-Give a high-level overview of the project purpose
-- What are the users?
+## Project Overview: Task Manager
+Project Purpose
+The Task Manager is designed to help users efficiently manage their tasks. It provides functionality for creating, reading, updating, and deleting tasks, ensuring that users can stay organized and on top of their to-do lists. The application also includes features for user authentication and authorization to protect user data and ensure privacy.
+- Users
+    - General Users: Individuals who need a simple and intuitive way to manage their tasks and to-do lists.
+    - Registered Users: Users who sign up to access personalized task management features.
+    - Authenticated Users: Users who log in to ensure their data is protected and accessible only by them.   
 - What job does it form for them?
 - What inspired you to make it?
 - What features are the most important?
