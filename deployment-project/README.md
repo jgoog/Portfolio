@@ -20,6 +20,7 @@ The Weather App is designed to provide users with real-time weather data for the
 
     
 Screenshots
+![image](https://github.com/user-attachments/assets/db5df145-5f33-4d30-8dc7-3a18f5aa2f3d)
 
 
 ## Technologies
