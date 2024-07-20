@@ -24,10 +24,10 @@ The inspiration for this project came from the need for hands-free task manageme
 - **Complete Tasks**: Mark tasks as complete.
 - **Set Reminders**: Set reminders for tasks at specified times.
 
-Interaction Model 
+**Interaction Model**: 
 ![image](https://github.com/user-attachments/assets/c8753f57-291f-4436-bc92-a2146a614acc)
 
-Alexa Recorded chat log
+**Alexa Recorded chat log**:
 ![image](https://github.com/user-attachments/assets/49fbdb21-8876-4e09-9d3b-039cc68ac4d2)
 
 
