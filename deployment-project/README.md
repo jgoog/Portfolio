@@ -32,10 +32,10 @@ The inspiration for this project was to simplify and streamline the development 
 - **CI/CD Platform**: GitHub Actions
 
 ## Dependencies
-- **Angular**: Version X.X
-- **Docker**: Version X.X
-- **GitHub Actions**: (Specify relevant actions used, e.g., actions/checkout, actions/setup-node)
-- **Node.js**: Version 22.3
+- **Angular**
+- **Docker**
+- **GitHub Actions**
+- **Node.js**
 
 ## Deployment Tools
 - **GitHub Actions**: Used for automating build, testing, and deployment processes
@@ -43,7 +43,7 @@ The inspiration for this project was to simplify and streamline the development 
 ## Competencies
 
 ### JF 4.3
-- **Full Text of Job Function**: Is able to build, manage and deploy code into the relevant environment.
+- **Is able to build, manage and deploy code into the relevant environment.**
 - **Situation**: For the UAM Docker Frontend project, I was responsible for setting up and managing the CI/CD pipeline, as well as deploying the application.
 - **Actions**: 
   - **Build**: Configured the build process for the Angular frontend using GitHub Actions.
@@ -53,7 +53,7 @@ The inspiration for this project was to simplify and streamline the development 
 - **Connection to Project**: Properly setting up the CI/CD pipeline and using Docker for containerization were essential for the successful build, management, and deployment of the UAM application.
 
 ### JF 1.7
-- **Full Text of Job Function**: Can follow company, team, or client approaches to continuous integration, version, and source control.
+- **Can follow company, team, or client approaches to continuous integration, version, and source control.**
 - **Situation**: In the UAM Docker Frontend project, maintaining a consistent and reliable codebase was crucial, requiring effective use of version control and continuous integration.
 - **Actions**: 
   - **Version Control**: Used Git and GitHub for version control, ensuring all code changes were tracked and managed efficiently.
