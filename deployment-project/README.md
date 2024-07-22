@@ -23,8 +23,10 @@ The inspiration for this project was to simplify and streamline the development 
 - **Angular Frontend**: Modern, responsive frontend built with Angular.
 - **Automation**: Reduced manual intervention in the deployment process, leading to faster and more reliable releases.
 
-## Screenshots
-(Include relevant screenshots here to showcase the application's user interface and key features, as well as the CI/CD pipeline and Docker configurations.)
+**Docker Containers**
+
+![image](https://github.com/user-attachments/assets/604d4ed6-8bc5-4177-9619-7108a0ba96ac)
+
 
 ## Technologies
 - **Frontend Framework**: Angular
